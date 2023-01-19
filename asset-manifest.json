@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-guess-game/static/css/main.3ef0da9e.css",
+    "main.js": "/react-guess-game/static/js/main.e90371ea.js",
+    "index.html": "/react-guess-game/index.html",
+    "main.3ef0da9e.css.map": "/react-guess-game/static/css/main.3ef0da9e.css.map",
+    "main.e90371ea.js.map": "/react-guess-game/static/js/main.e90371ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef0da9e.css",
+    "static/js/main.e90371ea.js"
+  ]
+}
